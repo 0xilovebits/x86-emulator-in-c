@@ -13,6 +13,8 @@ I really enjoy writing small emulators for fundamental low-level concepts to und
 
 ```bash
 gcc -o stack stack.c
-./stack```
+./stack
+```
 
-![Repo views](https://komarev.com/ghpvc/?username=0xilovebits&repo=x86-stack-emulator-in-c&color=blue&label=Repo+Views)
+![Repo views](https://komarev.com/ghpvc/?username=0xilovebits&repo=x86-stack-emulator-in-c&color=brightgreen&label=Repo+Views)
+
